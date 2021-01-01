@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" focusable="false" height="24"><g id="tuiIconToggleOnLarge" xmlns="http://www.w3.org/2000/svg" transform="translate(-12,-12)"><svg x="50%" y="50%"><svg xmlns="http://www.w3.org/2000/svg"
-	 width="24"
-	 height="24"
-	 viewBox="0 0 24 24">
-	<path d="M12 8.5V16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-</svg>
-</svg></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" focusable="false"><g xmlns="http://www.w3.org/2000/svg" id="tuiIconToggleOnLarge" transform="translate(-12,-12)"><svg x="50%" y="50%"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M12 8.5V16"/></svg></svg></g></svg>
